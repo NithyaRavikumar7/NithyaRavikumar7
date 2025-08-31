@@ -16,9 +16,5 @@
 ## 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourUserName.YourUserName)
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YourUserName&theme=onedark)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=YourUserName&theme=radical)
